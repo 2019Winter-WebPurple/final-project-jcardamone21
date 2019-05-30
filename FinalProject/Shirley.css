@@ -57,12 +57,14 @@ h2 { /* properties of h2 */
     height: 200px;
     width: 100%;
     clear: both; 
+    border: 2px dashed #e6a9a1;
 }
 
 #FoldingChair { /* properties of the floding chair picture */
     height: 150px;
     width: 100%;
     clear: both;
+    border: 2px dashed #e6a9a1;
 }
 
 h3 { /* properties of h3 */
@@ -83,12 +85,14 @@ main { /* properties of the main */
     height: 300px;
     width: 200px;
     float: right;
+    border: 2px solid #e6a9a1;
 }
 
 #President { /* properties of the president picture */
     height: 300px;
     width: 250px;
     float: right;
+    border: 2px solid #e6a9a1;
 }
 
 footer { /* properties of the footer */
@@ -100,6 +104,7 @@ footer { /* properties of the footer */
     height: 300px;
     width: 500px;
     clear: both;
+    border: 2px solid #e6a9a1;
 }
 
 /* properties of the links */
