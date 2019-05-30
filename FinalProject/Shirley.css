@@ -1,0 +1,122 @@
+/*
+* Jennifer Cardamone
+* May 30, 2019
+* Influential Women
+*/
+
+/* The universal selector */
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+/* Body properties here */
+body {
+    width: 90%;
+    background-color: #ffe8e5;
+    margin: 15px auto;
+    border: 5px solid #e6a9a1;
+    color: black;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+header { /* properties of the header */
+    border-bottom: 2px solid #e6a9a1;
+    text-align: center;
+}
+
+h1 { /* properties of h1 */
+    color: #999692;
+    padding: 10px;
+}
+
+h2 { /* properties of h2 */
+    color: #c9c7c4;
+    padding: 5px;
+}
+
+#sidebarA { /* properties of the sidebarA */
+    width: 20%;
+    height: 1610px;
+    float: left;
+    clear: both;
+    border-right: 2px solid #e6a9a1;
+    padding: 20px 10px;
+}
+
+#sidebarB { /* properties of the sidebarB */
+    width: 20%;
+    height: 1610px;
+    float: right;
+    border-left: 2px solid #e6a9a1;
+    padding: 20px 10px;
+}
+
+#Car {
+    height: 200px;
+    width: 100%;
+    clear: both; 
+}
+
+#FoldingChair { /* properties of the floding chair picture */
+    height: 150px;
+    width: 100%;
+    clear: both;
+}
+
+h3 { /* properties of h3 */
+    color: #71c4ff; 
+    text-align: center;
+}
+
+h4 { /* properties of h4 */
+    font-style: bold;
+}
+
+main { /* properties of the main */
+    padding: 10px 20px;
+    text-align: center;
+}
+
+#Stamp { /* properties of the stamp picture */
+    height: 300px;
+    width: 200px;
+    float: right;
+}
+
+#President { /* properties of the president picture */
+    height: 300px;
+    width: 250px;
+    float: right;
+}
+
+footer { /* properties of the footer */
+    padding: 10px 20px;
+    text-align: center;
+}
+
+#PeaceSign { /* properties of the peace sign picture */
+    height: 300px;
+    width: 500px;
+    clear: both;
+}
+
+/* properties of the links */
+a:link {
+    color: #ff5ba8;
+}
+
+a:visited {
+    color: #d386ff;
+}
+
+a:hover, a:focus { 
+    color: #0a85ff;
+    font-size: 20px;
+}
+
+ul, li{ /* properties of the list */
+    list-style-position:inside;
+    list-style-type: circle;
+}
